@@ -1,0 +1,8 @@
+{
+	"name": "Jordan",
+	"speedMultiplier": 0.8,
+	"frequencyMultiplier": 0.9,
+	"volumeMultiplier": 0.7,
+	"exclamationSpeedMultiplier": 1.2,
+	"punctuationLength": 250
+}

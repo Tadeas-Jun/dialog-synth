@@ -1,0 +1,17 @@
+{
+  "name": "dialog-synth",
+  "version": "1.0.0",
+  "description": "An abstract dialogue synthesizer for games or other audio-visual projects.",
+  "main": "generate.js",
+  "author": "Tadeas Jun",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^7.0.1",
+    "fs-extra": "^11.2.0",
+    "play-sound": "^1.1.6",
+    "sleep-promise": "^9.1.0",
+    "tonegenerator": "^0.3.3",
+    "waveheader": "^0.0.2"
+  }
+}
